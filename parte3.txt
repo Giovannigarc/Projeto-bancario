@@ -1,0 +1,12 @@
+using System;
+
+
+namespace g.bank
+{
+   
+    public enum TipoConta
+    
+    {
+        PessoaFisica = 1,
+
+        PessoaJuridica = 2
